@@ -12,6 +12,7 @@
 "latencyActive": false,
 "exceptionsActive": true,
 "killApplicationActive": false,
+
   "watchedCustomServices" : 
   [ "com.snkit.resiliencechaosmonkey.HelloWorldService.sayHi"],
 "exception": {
